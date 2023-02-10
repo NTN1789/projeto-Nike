@@ -1,0 +1,56 @@
+
+
+{
+    "Sapatos": [{
+                "id": 1,
+                "name": "Tênis Nike ",
+                "preco": "250,00",
+                "image": ""
+    }, {
+        "id": 2 ,
+        "name": "Nike Airjodan" , 
+        "preco": "1.500,00",
+        "image":"https://imgnike-a.akamaihd.net/360x360/016737IM.jpg"
+
+    } , {
+        "id": 3,
+        "name": "Nike Air force" , 
+        "preco": "675,00",
+        "image":"https://imgcentauro-a.akamaihd.net/230x230/94313731.jpg"
+
+    } , {
+        "id": 4 ,
+        "name": "Nike Revolution 6 ",
+        "preco" : "350,00",
+        "image":""
+
+    } , {
+        "id": 5 ,
+        "name":"Nike Air force 1 ",
+        "preco": "850,00",
+        "image":"https://imgnike-a.akamaihd.net/360x360/011137ID.jpg"
+
+
+    } , {
+        "id": 6 ,
+        "name":"Nike Air force 1 ",
+        "preco": "850,00",
+        "image":"https://imgnike-a.akamaihd.net/360x360/012795IF.jpg"
+
+
+    }   , {
+        "id": 7 ,
+        "name": "Nike Airjodan 5" ,
+        "preco":2.500,
+        "image":"https://imgnike-a.akamaihd.net/360x360/0243317T.jpg"
+
+
+    }
+
+        
+
+
+
+]
+
+}
